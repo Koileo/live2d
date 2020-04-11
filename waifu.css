@@ -1,7 +1,8 @@
 #waifu {
+	bottom:-20;
 	left: 10px;
 	position: fixed;
-	transform: translateY(0px);
+	transform: translateY(3px);
 	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
 	z-index: 30;
 }
